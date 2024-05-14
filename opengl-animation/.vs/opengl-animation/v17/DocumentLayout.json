@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Alex\\Desktop\\opengl-animation\\",
+  "WorkspaceRootPath": "C:\\Users\\Alex\\Documents\\GitHub\\OpenGL_animation\\opengl-animation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6CAAEF52-27E3-4480-B797-C92AE8F824BA}|opengl-animation\\opengl-animation.vcxproj|C:\\Users\\Alex\\Desktop\\opengl-animation\\opengl-animation\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6CAAEF52-27E3-4480-B797-C92AE8F824BA}|opengl-animation\\opengl-animation.vcxproj|C:\\Users\\Alex\\Documents\\GitHub\\OpenGL_animation\\opengl-animation\\opengl-animation\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6CAAEF52-27E3-4480-B797-C92AE8F824BA}|opengl-animation\\opengl-animation.vcxproj|solutionrelative:opengl-animation\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\opengl-animation\\opengl-animation\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\GitHub\\OpenGL_animation\\opengl-animation\\opengl-animation\\main.cpp",
               "RelativeDocumentMoniker": "opengl-animation\\main.cpp",
-              "ToolTip": "C:\\Users\\Alex\\Desktop\\opengl-animation\\opengl-animation\\main.cpp",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\GitHub\\OpenGL_animation\\opengl-animation\\opengl-animation\\main.cpp",
               "RelativeToolTip": "opengl-animation\\main.cpp",
-              "ViewState": "AQIAAKIGAAAAAAAAAAAkwLUGAAAYAAAA",
+              "ViewState": "AQIAAL8HAAAAAAAAAAAAAMsHAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-14T17:07:01.289Z",
               "EditorCaption": ""
