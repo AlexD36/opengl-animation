@@ -83,6 +83,6 @@ C:\Users\Alex\Documents\GitHub\OpenGL_animation\opengl-animation\opengl-animatio
 C:\Users\Alex\Documents\GitHub\OpenGL_animation\opengl-animation\opengl-animation\main.cpp(1747,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
 C:\Users\Alex\Documents\GitHub\OpenGL_animation\opengl-animation\opengl-animation\main.cpp(1747,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
 C:\Users\Alex\Documents\GitHub\OpenGL_animation\opengl-animation\opengl-animation\main.cpp(1748,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Users\Alex\Documents\GitHub\OpenGL_animation\opengl-animation\opengl-animation\main.cpp(2048,19): warning C4305: '-=': truncation from 'double' to 'float'
-C:\Users\Alex\Documents\GitHub\OpenGL_animation\opengl-animation\opengl-animation\main.cpp(2073,19): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Alex\Documents\GitHub\OpenGL_animation\opengl-animation\opengl-animation\main.cpp(2046,19): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Alex\Documents\GitHub\OpenGL_animation\opengl-animation\opengl-animation\main.cpp(2071,19): warning C4305: '+=': truncation from 'double' to 'float'
   opengl-animation.vcxproj -> C:\Users\Alex\Documents\GitHub\OpenGL_animation\opengl-animation\Debug\opengl-animation.exe

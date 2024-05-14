@@ -1035,14 +1035,14 @@ void drawScene2() {
         //1st circle for moon
     glPushMatrix();
     glColor3ub(217, 217, 217);
-    glTranslatef(-8.0, 7.0, 0);
+    glTranslatef(-9.0, 8.0, 0);
     glutSolidSphere(1, 250, 250);
     glPopMatrix();
 
     //2nd circle for moon
     glPushMatrix();
     glColor3ub(0, 0, 0);
-    glTranslatef(-8, 7.25, 0);
+    glTranslatef(-9, 8.25, 0);
     glutSolidSphere(1, 250, 250);
     glPopMatrix();
 
@@ -1993,7 +1993,6 @@ void SpecialInput(int key, int x, int y)
 
         glutDisplayFunc(drawScene2);
         break;
-
     }
     glutPostRedisplay();
 }
@@ -2012,13 +2011,12 @@ void update1(int value) {
 
 void handleMouse(int button, int state, int x, int y) {
 
-    if (button == GLUT_LEFT_BUTTON)
+    if (button == GLUT_RIGHT_BUTTON)
     {
         speed += 0.05f;
     }
 
-
-    else if (button == GLUT_RIGHT_BUTTON)
+    else if (button == GLUT_LEFT_BUTTON)
     {
         speed -= 0.05f;
     }
@@ -2029,7 +2027,7 @@ void handleKeypress(unsigned char key, int x, int y) {
     case 's'://stops
         speed = 0.0f;
         break;
-    case 'r'://runs
+    case 'w'://runs
         speed = 0.02f;
         break;
         glutPostRedisplay();
