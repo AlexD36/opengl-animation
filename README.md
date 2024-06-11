@@ -1,4 +1,4 @@
-#**Project Name**: Picturesque Mountain View: Interactive Nature Scene
+#Picturesque Mountain View: Interactive Nature Scene
 
 **Description**:
 Picturesque Mountain View is a peaceful scene featuring a serene mountain landscape with a flowing river, cozy houses, a tree, and a charming windmill. The scene transitions between day and night based on user input, with the daytime revealing vibrant colors and the nighttime casting a serene, moonlit glow over the landscape.
