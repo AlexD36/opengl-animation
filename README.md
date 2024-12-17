@@ -1,5 +1,9 @@
 # Picturesque Mountain View: Interactive Nature Scene
 
+![OpenGL](https://img.shields.io/badge/OpenGL-4.6-1C6D72?style=flat-square)
+![GLUT](https://img.shields.io/badge/GLUT-3.x-0C5A6B?style=flat-square)
+
+
 **Description**:
 Picturesque Mountain View is a peaceful scene featuring a serene mountain landscape with a flowing river, cozy houses, a tree, and a charming windmill. The scene transitions between day and night based on user input, with the daytime revealing vibrant colors and the nighttime casting a serene, moonlit glow over the landscape.
 
