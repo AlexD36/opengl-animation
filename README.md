@@ -29,3 +29,9 @@ Picturesque Mountain View is a peaceful scene featuring a serene mountain landsc
 **Requirements**:
 - OpenGL
 - GLUT (OpenGL Utility Toolkit)
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
